@@ -1,3 +1,2 @@
 # Add plugins here
 sentry-plugins
-https://github.com/getsentry/sentry-auth-saml2/archive/master.zip
