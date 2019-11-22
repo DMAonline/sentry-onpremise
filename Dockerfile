@@ -1,4 +1,4 @@
-FROM sentry:9.0-onbuild
+FROM sentry:9.1.2-onbuild
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
   libxmlsec1-dev \
